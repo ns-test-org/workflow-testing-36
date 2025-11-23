@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Calculator App",
+  title: "remix-workflow-36-02",
   description: "A beautiful, functional calculator with keyboard support",
 };
 
@@ -32,4 +32,5 @@ export default function RootLayout({
     </html>
   );
 }
+
 
